@@ -44,8 +44,6 @@
     </form>
       <br>
 
-      
-        
         <!-- Calculations for area -->
         <?php
           if(isset($_POST["submit"])) {
