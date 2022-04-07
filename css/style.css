@@ -1,0 +1,31 @@
+/* Created by: Grace 
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit3-01-HTML-AreaTrapezoid
+*/
+
+body {
+	background-color: rgb(251, 227, 250);
+}
+
+h1 {
+	background-color: rgb(245, 180, 243);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #f9d0f7;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 8px;
+}
+
+#display-results{
+  background-color: #f9d0f7;
+}
